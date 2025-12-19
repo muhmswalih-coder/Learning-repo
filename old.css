@@ -1,0 +1,41 @@
+ * {
+    box-sizing: border-box;
+    margin:0px 0px 10px 0px;
+    padding:0;
+}
+ .container {
+  background-color: rgb(48, 48, 196);
+  color: white;
+  padding: 30px;
+   display:flex;
+ }
+ .child-nav{
+   display: flex;
+ }
+ .link{
+
+ }
+ .log-in{
+
+ }
+ .bottom{
+      display: flex;
+      background-color: rgb(240, 240, 240);
+      height: 200px;
+ }
+ .bottom-left {
+   background-image: url('assets/images/old.png');
+   overflow: none;
+   width: 300px;
+   height: 200px;
+   background-size: cover;
+ }
+ .child-right{
+      margin-left: 150px;
+      margin-top: 50px;
+  }
+
+.bottom-right{
+   padding: 0px;
+   margin-left: 50px;
+  }
